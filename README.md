@@ -36,7 +36,7 @@ If you find a bug or want to contribute, please start by reading through the [Gi
 
 ## Screenshots
 
-![](https://cloud.githubusercontent.com/assets/171215/14657660/d67be15c-0654-11e6-8f8e-937476c98a60.png)
+![](https://cloud.githubusercontent.com/assets/171215/14657747/32b8daf6-0655-11e6-9629-11df51b569b7.png)
 
 ## License
 
