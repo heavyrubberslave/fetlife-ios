@@ -2,7 +2,7 @@
 
 We :heart: and encourage all contributions from the community. Here is how you can get involved and help make FetLife for iOS better.
 
-If you haven't already, build and run the application by following the instructions in the [README](https://github.com/fetlife/fetlife-ios/).
+If you haven't already, build and run the application by following the instructions in the [README](https://github.com/fetlife/fetlife-ios#building-the-application).
 
 ## Reporting a bug
 
