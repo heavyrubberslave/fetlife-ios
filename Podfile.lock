@@ -1,0 +1,63 @@
+PODS:
+  - Alamofire (3.2.0)
+  - AlamofireImage (2.3.1):
+    - Alamofire (~> 3.2)
+  - AlamofireNetworkActivityIndicator (1.0.0):
+    - Alamofire (~> 3.2)
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - DateTools (1.7.0)
+  - Fabric (1.6.6)
+  - Freddy (2.0.2)
+  - JSQMessagesViewController (7.2.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - JWTDecode (1.0.0)
+  - p2.OAuth2 (2.2.1):
+    - SwiftKeychain (~> 0.1.5)
+  - Realm (0.98.2):
+    - Realm/Headers (= 0.98.2)
+  - Realm/Headers (0.98.2)
+  - RealmSwift (0.98.2):
+    - Realm (= 0.98.2)
+  - SlackTextViewController (1.9)
+  - SnapKit (0.15.0)
+  - StatefulViewController (1.0)
+  - SwiftKeychain (0.1.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - AlamofireImage (~> 2.0)
+  - AlamofireNetworkActivityIndicator (~> 1.0)
+  - Crashlytics
+  - DateTools (~> 1.7)
+  - Fabric
+  - Freddy (~> 2.0.2)
+  - JSQMessagesViewController
+  - JWTDecode (~> 1.0)
+  - p2.OAuth2 (~> 2.2.1)
+  - RealmSwift
+  - SlackTextViewController (~> 1.9)
+  - SnapKit (~> 0.15.0)
+  - StatefulViewController (~> 1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 4da478599fccddff361205c8929333d7fe18dceb
+  AlamofireImage: e52336282757bbe1644f075d6cb85f19c891f939
+  AlamofireNetworkActivityIndicator: 34e6fe7ebb5d8df76cc55fbf83a6087ae6457344
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  Fabric: 1abc1e59f11fa39ede6f690ef7309d8563e3ec59
+  Freddy: e53713b8d5be02dbf5f4132c44d899d99eb09a6b
+  JSQMessagesViewController: 73cab48aa92fc2d512f3b6724f3425cc47a19eb5
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  JWTDecode: d172edcb1607cc15aed85d58eceedcbb675a4534
+  p2.OAuth2: 7f5c44259ef83ea5b9ef8f9049310611788f86cb
+  Realm: 88a147fe04b8f07191a676b15c779b2b448991de
+  RealmSwift: 9907c7415b3e19ef2ab9f89878fc890f03f93aea
+  SlackTextViewController: d51503f7be846cb9976a273499dc90f2445e9447
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+  StatefulViewController: 2a0e5ab30d9ade8e366253fb759baa9fbf458f3e
+  SwiftKeychain: 1387edad8b56c659daa93d9ffc99526bac5b0088
+
+COCOAPODS: 0.39.0
