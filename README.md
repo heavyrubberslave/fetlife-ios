@@ -8,7 +8,7 @@ Welcome to FetLife's open-source iOS app!
 - Read and respond to conversations
 
 
-### Requirements to run app on your iPhone
+### Requirements to run the app on your iPhone
 
 - iPhone running iOS 9.0 or higher
 - Mac running OS X 10.11 or later
