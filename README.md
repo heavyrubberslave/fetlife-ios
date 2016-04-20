@@ -17,7 +17,7 @@ Welcome to FetLife's open-source iOS app!
 
 ### Screenshots of App
 
-![](https://cloud.githubusercontent.com/assets/171215/14657747/32b8daf6-0655-11e6-9629-11df51b569b7.png)
+![Screenshots of iOS App from a iPhone 6](https://cloud.githubusercontent.com/assets/22100/14684831/a0d2c0c4-06e6-11e6-8d9a-177caf8cb410.png)
 
 
 ### Installing the App on your iPhone for the first time
