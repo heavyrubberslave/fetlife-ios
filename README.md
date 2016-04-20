@@ -51,7 +51,7 @@ Want to install the app on your phone but are not technically savvy? Ask your lo
 
 ### Got Bugs?
 
-If you find a bug please start by reading through the our current list of [open issues](https://github.com/fetlife/fetlife-ios/issues) and if you can't find anything about your bug please [submit a new bug]().
+If you find a bug please start by reading through the our current list of [open issues](https://github.com/fetlife/fetlife-ios/issues) and if you can't find anything about your bug please [submit a new bug](https://github.com/fetlife/fetlife-ios/issues/new).
 
 
 ### Want to Contribute
