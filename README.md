@@ -14,7 +14,7 @@ Welcome to FetLife's open-source iOS app!
 - Mac running OS X 10.11 or later
 
 
-### Screenshots of App
+### Screenshots of the App
 
 ![Screenshots of iOS App from a iPhone 6](https://cloud.githubusercontent.com/assets/22100/14684831/a0d2c0c4-06e6-11e6-8d9a-177caf8cb410.png)
 
@@ -46,7 +46,7 @@ These instructions are written assuming you know very little about computers and
 
 ### Kinksters Helping Kinksters
 
-Want to install the app on your phone but not technically savvy? Ask your local kinky geek! Technically savvy and want to give back to the community... bring your laptop with you the next time you attend an event and install / update the app for anyone who's interested in having it install on their iPhone. *#KinkstersHelpingKinksters*
+Want to install the app on your phone but are not technically savvy? Ask your local kinky geek! Technically savvy and want to give back to the community... bring your laptop with you the next time you attend an event and install / update the app for anyone who's interested in having it install on their iPhone. *#KinkstersHelpingKinksters*
 
 
 ### Got Bugs?
@@ -56,7 +56,7 @@ If you find a bug please start by reading through the our current list of [open 
 
 ### Want to Contribute
 
-Woot woot! Please checkout our [Contributing Guidelines](https://github.com/fetlife/fetlife-ios/blob/master/CONTRIBUTING.md) and go from their.
+Woot woot! Please checkout our [Contributing Guidelines](https://github.com/fetlife/fetlife-ios/blob/master/CONTRIBUTING.md) and go from there.
 
 
 ### License
