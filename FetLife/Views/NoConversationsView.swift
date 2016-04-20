@@ -41,7 +41,7 @@ class NoConversationsView: UIView {
         button.titleLabel?.font = UIFont.systemFontOfSize(17.0)
         button.setTitle("Refresh", forState: .Normal)
         button.setTitleColor(UIColor.brickColor(), forState: .Normal)
-        button.addTarget(self, action: "tryRefresh", forControlEvents: .TouchUpInside)
+        button.addTarget(self, action: #selector(NoConversationsView.tryRefresh), forControlEvents: .TouchUpInside)
         return button
     }()
     

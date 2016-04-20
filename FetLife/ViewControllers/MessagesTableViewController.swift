@@ -155,7 +155,7 @@ class MessagesTableViewController: SLKTextViewController {
         cell.message = message
         
         // Remove margins from the table cell.
-        if cell.respondsToSelector("setPreservesSuperviewLayoutMargins:") {
+        if cell.respondsToSelector(Selector("setPreservesSuperviewLayoutMargins:")) {
             cell.layoutMargins = UIEdgeInsetsZero
             cell.preservesSuperviewLayoutMargins = false
         }
