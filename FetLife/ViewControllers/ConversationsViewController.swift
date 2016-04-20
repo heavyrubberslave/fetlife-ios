@@ -32,7 +32,7 @@ class ConversationsViewController: UIViewController, StatefulViewController, UIT
         
         setupStateViews()
         
-        self.refreshControl.addTarget(self, action: "refresh:", forControlEvents: UIControlEvents.ValueChanged)
+        self.refreshControl.addTarget(self, action: #selector(ConversationsViewController.refresh(_:)), forControlEvents: UIControlEvents.ValueChanged)
         
         self.splitViewController?.delegate = self
         
@@ -123,7 +123,7 @@ class ConversationsViewController: UIViewController, StatefulViewController, UIT
         
         cell.conversation = conversation
         
-        if cell.respondsToSelector("setPreservesSuperviewLayoutMargins:") {
+        if cell.respondsToSelector(Selector("setPreservesSuperviewLayoutMargins:")) {
             cell.layoutMargins = UIEdgeInsetsZero
             cell.preservesSuperviewLayoutMargins = false
         }
