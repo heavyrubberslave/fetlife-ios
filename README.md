@@ -1,43 +1,65 @@
 # FetLife for iOS
 
-Welcome to the official FetLife iOS open-source client! :confetti_ball: We're excited to start developing our iOS app as an open-source project and allowing the community to engage and contribute.
+Welcome to FetLife's open-source iOS app!
 
-## Getting started
+### Current Features
 
-The app is still a major work in progress. The goal is to take the base FetLife chat application and add more features and API endpoints to match the other features on fetlife.com.
+- View a list of your conversations
+- Read and respond to conversations
+- Receive a push notification when you receive a new message
 
-The current operating system target of the application is iOS 9.0 or higher.
 
-#### Building the application
+### Requirements to run app on your iPhone
 
-To run and use the app, it must be built locally and run on your device or the iOS simulator from Xcode.
+- iPhone running iOS 9.0 or higher
+- Mac running OS X 10.11 or later
 
-1. Download and install the latest [Xcode developer tools](https://developer.apple.com/xcode/download/) from Apple.
-- Install [CocoaPods](https://cocoapods.org/).
-- Clone the [repository](https://github.com/fetlife/fetlife-ios).
 
-  ```
-  git clone git@github.com:fetlife/fetlife-ios.git
-  cd fetlife-ios
-  ```
-- Install the project's dependencies.
-
-  ```
-  pod install
-  ```
-- Open the project by clicking on the `FetLife.xcworkspace` file or using the command line.
-
-  ```
-  open FetLife.xcworkspace
-  ```
-- Build the `FetLife` scheme in Xcode. The app can be run within a simulator or [on a device](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/LaunchingYourApponDevices/LaunchingYourApponDevices.html).
-
-If you find a bug or want to contribute, please start by reading through the [GitHub issues](https://github.com/fetlife/fetlife-ios/issues) and [contributing](https://github.com/fetlife/fetlife-ios/blob/master/CONTRIBUTING.md) guidelines.
-
-## Screenshots
+### Screenshots of App
 
 ![](https://cloud.githubusercontent.com/assets/171215/14657747/32b8daf6-0655-11e6-9629-11df51b569b7.png)
 
-## License
+
+### Installing the App on your iPhone
+
+These instructions are written assuming you know very little about computers and to help get the app on your iPhone as quickly as possible:
+
+1. Install the latest version of [Xxode](https://itunes.apple.com/ca/app/xcode/id497799835?mt=12).
+2. Open the `Terminal` application up on your Mac.
+3. Enter the following commands into your terminal window one by one and wait for them to finish:
+  - `sudo gem install cocoapods` you will be prompted for your computers password
+  - `git clone git@github.com:fetlife/fetlife-ios.git`
+  - `cd fetlife-ios`
+  - `pod install`
+  - `open FetLife.xcworkspace`
+4. Installing the app on your phone:
+  - Connect your iPhone to your computer.
+  - Select your iPhone from the "[Scheme toolbar menu](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Art/5_launchappondevice_2x.png)".
+  - Click the "Run" button.
+5. Follow the instructions in the pop up windows i.e.:
+  - Click "Fix Issue".
+  - Enter in the username and password for your iCloud account.
+  - "Select a Development Team" i.e your own name.
+  - *You will probably have to do that 7-8 times*
+  - Unlock your phone so your Mac can install the app onto your phone.
+6. Do the [happy dance](https://www.youtube.com/watch?v=Ckt5JgshnaA)! :-)
+
+
+### Kinksters Helping Kinksters
+
+Want to install the app on your phone but not technically savvy? Ask your local kinky geek! Technically savvy and want to give back to the community... bring your laptop with you the next time you attend an event and install / update the app for anyone who's interested in having it install on their iPhone. *#KinkstersHelpingKinksters*
+
+
+### Got Bugs?
+
+If you find a bug please start by reading through the our current list of [open issues](https://github.com/fetlife/fetlife-ios/issues) and if you can't find anything about your bug please [submit a new bug]().
+
+
+### Want to Contribute
+
+Woot woot! Please checkout our [Contributing Guidelines](https://github.com/fetlife/fetlife-ios/blob/master/CONTRIBUTING.md) and go from their.
+
+
+### License
 
 FetLife for iOS is released under the [MIT License](http://www.opensource.org/licenses/MIT).
