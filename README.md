@@ -24,7 +24,7 @@ Welcome to FetLife's open-source iOS app!
 
 These instructions are written assuming you know very little about computers and to help get the app on your iPhone as quickly as possible:
 
-1. Install the latest version of [Xxode](https://itunes.apple.com/ca/app/xcode/id497799835?mt=12).
+1. Install the latest version of [Xcode](https://itunes.apple.com/ca/app/xcode/id497799835?mt=12).
 2. Open the `Terminal` application up on your Mac.
 3. Enter the following commands into your terminal window one by one and wait for them to finish:
   - `sudo gem install cocoapods` you will be prompted for your computers password
