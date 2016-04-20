@@ -6,7 +6,6 @@ Welcome to FetLife's open-source iOS app!
 
 - View a list of your conversations
 - Read and respond to conversations
-- Receive a push notification when you receive a new message
 
 
 ### Requirements to run app on your iPhone
