@@ -20,7 +20,7 @@ Welcome to FetLife's open-source iOS app!
 ![](https://cloud.githubusercontent.com/assets/171215/14657747/32b8daf6-0655-11e6-9629-11df51b569b7.png)
 
 
-### Installing the App on your iPhone
+### Installing the App on your iPhone for the first time
 
 These instructions are written assuming you know very little about computers and to help get the app on your iPhone as quickly as possible:
 
