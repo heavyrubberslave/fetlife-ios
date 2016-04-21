@@ -66,6 +66,8 @@ final class API {
             "verbose": true
         ] as OAuth2JSON)
         
+        oauthSession.authConfig.ui.useSafariView = false
+        
         if let accessToken = oauthSession.accessToken {
             do {
                 let jwt = try decode(accessToken)
