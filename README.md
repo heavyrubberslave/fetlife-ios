@@ -32,6 +32,7 @@ These instructions are written assuming you know very little about computers and
   - `pod install`
   - `open FetLife.xcworkspace`
 4. Installing the app on your phone:
+  - Change the Bundle Identifier to something unique in Xcode.
   - Connect your iPhone to your computer.
   - Select your iPhone from the "[Scheme toolbar menu](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Art/5_launchappondevice_2x.png)".
   - Click the "Run" button.
@@ -41,7 +42,8 @@ These instructions are written assuming you know very little about computers and
   - "Select a Development Team" i.e your own name.
   - *You will probably have to do that 7-8 times*
   - Unlock your phone so your Mac can install the app onto your phone.
-6. Do the [happy dance](https://www.youtube.com/watch?v=Ckt5JgshnaA)! :-)
+6. Trust your own developer on your iDevice under "Settings -> General -> Profile -> (your apple ID)"
+7. Do the [happy dance](https://www.youtube.com/watch?v=Ckt5JgshnaA)! :-)
 
 
 ### Kinksters Helping Kinksters
