@@ -32,7 +32,6 @@ These instructions are written assuming you know very little about computers and
   - `pod install`
   - `open FetLife.xcworkspace`
 4. Installing the app on your phone:
-  - Change the Bundle Identifier to something unique in Xcode.
   - Connect your iPhone to your computer.
   - Select your iPhone from the "[Scheme toolbar menu](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Art/5_launchappondevice_2x.png)".
   - Click the "Run" button.
