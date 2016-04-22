@@ -62,7 +62,7 @@ Woot woot! Please checkout our [Contributing Guidelines](https://github.com/fetl
 
 ### Frequently Asked Questions
 
-- **Is a Mac required to install the application?** Yes a Mac computer with at least OS X 10.11 or later is required to run the app and install it on a device.
+- **Is a Mac required to install the application?** Yes, a Mac computer with at least OS X 10.11 or later is required to run the app and install it on a device.
 
 
 ### License
