@@ -32,10 +32,10 @@ These instructions are written assuming you know very little about computers and
   - `pod install`
   - `open FetLife.xcworkspace`
 4. Installing the app on your phone:
-  - Change the Bundle Identifier to something unique in Xcode.
   - Connect your iPhone to your computer.
   - Select your iPhone from the "[Scheme toolbar menu](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Art/5_launchappondevice_2x.png)".
   - Click the "Run" button.
+  - If an error occurs saying the Bundle Identifier is unavailable, change the Bundle Identifier to something unique in Xcode and try again please.
 5. Follow the instructions in the pop up windows i.e.:
   - Click "Fix Issue".
   - Enter in the username and password for your iCloud account.
