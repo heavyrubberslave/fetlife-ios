@@ -60,6 +60,11 @@ If you find a bug please start by reading through the our current list of [open 
 
 Woot woot! Please checkout our [Contributing Guidelines](https://github.com/fetlife/fetlife-ios/blob/master/CONTRIBUTING.md) and go from there.
 
+### Frequently Asked Questions
+
+- **Is a Mac required to install the application?**
+  Yes a Mac computer with at least OS X 10.11 or later is required to run the app and install it on a device. We're always looking for better ways to do this.
+
 
 ### License
 
