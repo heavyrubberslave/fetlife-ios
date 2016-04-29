@@ -243,6 +243,15 @@ final class API {
             }
         }
     }
+
+    /**
+     Logs the user out of Fetlife by forgetting OAuth tokens and removing all fetlife cookies.
+     */
+    func logout() {
+        oauthSession.forgetTokens();
+        let storage = NSHTTPCookieStorage.sharedHTTPCookieStorage()
+        storage.cookies?.forEach() { storage.deleteCookie($0) }
+    }
     
     // Extremely useful for making app store screenshots, keeping this around for now.
     func fakeConversations() -> JSON {

@@ -106,7 +106,13 @@ class ConversationsViewController: UIViewController, StatefulViewController, UIT
         self.loadingView = LoadingView(frame: view.frame)
         self.errorView = ErrorView(frame: view.frame)
     }
-    
+
+    @IBAction func logoutButtonPressed(sender: UIBarButtonItem) {
+        API.sharedInstance.logout()
+        navigationController?.viewControllers = [storyboard!.instantiateViewControllerWithIdentifier("loginView"), self]
+        navigationController?.popViewControllerAnimated(true)
+    }
+
     // MARK: - StatefulViewController
     
     func hasContent() -> Bool {
